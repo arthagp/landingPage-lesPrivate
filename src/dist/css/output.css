@@ -952,6 +952,10 @@ body {
     margin-right: 5rem;
   }
 
+  .max-sm\:hidden {
+    display: none;
+  }
+
   .max-sm\:h-28 {
     height: 7rem;
   }
