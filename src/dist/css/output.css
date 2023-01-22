@@ -925,6 +925,10 @@ body {
     margin: 1rem;
   }
 
+  .max-sm\:m-5 {
+    margin: 1.25rem;
+  }
+
   .max-sm\:mx-3 {
     margin-left: 0.75rem;
     margin-right: 0.75rem;
@@ -960,12 +964,24 @@ body {
     width: 6rem;
   }
 
+  .max-sm\:w-7 {
+    width: 1.75rem;
+  }
+
+  .max-sm\:w-72 {
+    width: 18rem;
+  }
+
   .max-sm\:flex-col {
     flex-direction: column;
   }
 
   .max-sm\:items-center {
     align-items: center;
+  }
+
+  .max-sm\:p-5 {
+    padding: 1.25rem;
   }
 
   .max-sm\:px-3 {
