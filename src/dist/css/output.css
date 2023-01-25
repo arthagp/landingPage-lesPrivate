@@ -587,6 +587,26 @@ video {
   right: -7rem;
 }
 
+.right-2 {
+  right: 0.5rem;
+}
+
+.right-1 {
+  right: 0.25rem;
+}
+
+.right-5 {
+  right: 1.25rem;
+}
+
+.-right-5 {
+  right: -1.25rem;
+}
+
+.-right-2 {
+  right: -0.5rem;
+}
+
 .z-10 {
   z-index: 10;
 }
@@ -1010,6 +1030,10 @@ body {
 @media not all and (min-width: 640px) {
   .max-sm\:right-1 {
     right: 0.25rem;
+  }
+
+  .max-sm\:right-2 {
+    right: 0.5rem;
   }
 
   .max-sm\:m-3 {
