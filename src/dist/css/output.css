@@ -1036,6 +1036,26 @@ body {
     right: 0.5rem;
   }
 
+  .max-sm\:-right-1 {
+    right: -0.25rem;
+  }
+
+  .max-sm\:-right-2 {
+    right: -0.5rem;
+  }
+
+  .max-sm\:-right-3 {
+    right: -0.75rem;
+  }
+
+  .max-sm\:-right-4 {
+    right: -1rem;
+  }
+
+  .max-sm\:-right-6 {
+    right: -1.5rem;
+  }
+
   .max-sm\:m-3 {
     margin: 0.75rem;
   }
