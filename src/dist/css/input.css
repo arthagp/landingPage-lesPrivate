@@ -10,7 +10,7 @@
 }
 
 .navbar-fixed{
-  @apply fixed z-50 opacity-100 shadow-xl backdrop-blur-sm;  
+  @apply fixed z-[999] opacity-100 shadow-xl backdrop-blur-sm;  
 }
 
 .hamburger-line{
